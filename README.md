@@ -24,10 +24,11 @@ En el siguiente [ARCHIVO](https://github.com/marcosgil1996/SISTEMA-APRENDIZAJE-A
 
 ## 5. REGREGIÓN LINEAL
 ### 5.1. REGRESIÓN LINEAL 1 VARIABLE
+En el siguiente [ARCHIVO](https://github.com/marcosgil1996/SISTEMA-APRENDIZAJE-AUTOMATICO/blob/main/5.%20REGRESI%C3%93N%20LINEAL/REGRESI%C3%93N%20LINEAL%201%20VARIABLE/ejercicio-renta-capita.ipynb) se explica como realizar una regresión lineal teniendo una variable target y otra variable donde le insertamos el valor.
 
 
 ### 5.2. REGRESIÓN LINEAL MÚLTIPLES VARIABLES
-
+En el siguiente [ARCHIVO](https://github.com/marcosgil1996/SISTEMA-APRENDIZAJE-AUTOMATICO/blob/main/5.%20REGRESI%C3%93N%20LINEAL/REGRESI%C3%93N%20LINEAL%20MULTIPLES%20VARIABLES/ejercicio_multiples-2.ipynb) se explica como realizar una regresión lineal teniendo un variable target y varias variables donde la insertamos los valores deseados.
 
 regresión lineal
 regresipon logistica
