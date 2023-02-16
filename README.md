@@ -17,11 +17,10 @@ En el siguiente [ARCHIVO](https://github.com/marcosgil1996/SISTEMA-APRENDIZAJE-A
 
 ## 3. ONE HOT ENCODING
 
-En siguiente [ARCHIVO](https://github.com/marcosgil1996/SISTEMA-APRENDIZAJE-AUTOMATICO/blob/main/3.one_hot_encoding/one-hot-encode-1-marcosgilcaravaca.ipynb) se explicao como funciona ONE HOT ENCODING
+En siguiente [ARCHIVO](https://github.com/marcosgil1996/SISTEMA-APRENDIZAJE-AUTOMATICO/blob/main/3.one_hot_encoding/one-hot-encode-1-marcosgilcaravaca.ipynb) se explica como funciona ONE HOT ENCODING
 
 # 4. DATOS DE ENTRENAMIENTO Y TEST
-
-
+En el siguiente [ARCHIVO](https://github.com/marcosgil1996/SISTEMA-APRENDIZAJE-AUTOMATICO/blob/main/4.%20DATOS%20DE%20ENTRENAMIENTO%20Y%20TEST%20/divisor_df_train_test_marcosgilcaravaca.ipynb) se explica como definimos los datos de entrenmiento y test haciendo uso de SKLEARN traing_test_split.
 
 
 Datos entrenamiento y test
