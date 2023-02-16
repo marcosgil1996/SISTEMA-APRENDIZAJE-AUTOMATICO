@@ -1,4 +1,5 @@
-# SistemasAprendizajeAutomático
+# APUNTES SISTEMAS DE APRENDIZAJE AUTOMÁTICO
+
 ## 1. GUARDAR MODELOS
 
 La siguiente [URL](https://github.com/marcosgil1996/SISTEMA-APRENDIZAJE-AUTOMATICO/blob/main/2.guardar_modelos/creacion_modelo_marcosgilcaravaca.ipynb
@@ -18,11 +19,11 @@ En el siguiente [ARCHIVO](https://github.com/marcosgil1996/SISTEMA-APRENDIZAJE-A
 
 En siguiente [ARCHIVO](https://github.com/marcosgil1996/SISTEMA-APRENDIZAJE-AUTOMATICO/blob/main/3.one_hot_encoding/one-hot-encode-1-marcosgilcaravaca.ipynb) se explicao como funciona ONE HOT ENCODING
 
+# 4. DATOS DE ENTRENAMIENTO Y TEST
 
 
 
 
-Correlaciónff
 Datos entrenamiento y test
 regresión lineal
 regresipon logistica
