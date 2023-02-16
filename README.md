@@ -31,7 +31,7 @@ En el siguiente [ARCHIVO](https://github.com/marcosgil1996/SISTEMA-APRENDIZAJE-A
 En el siguiente [ARCHIVO](https://github.com/marcosgil1996/SISTEMA-APRENDIZAJE-AUTOMATICO/blob/main/5.%20REGRESI%C3%93N%20LINEAL/REGRESI%C3%93N%20LINEAL%20MULTIPLES%20VARIABLES/ejercicio_multiples-2.ipynb) se explica como realizar una regresión lineal teniendo un variable target y varias variables donde la insertamos los valores deseados.
 
 ### 5.3. REGRESIÓN LOGÍSTICA
-
+En el siguiente [ARCHIVO](https://github.com/marcosgil1996/SISTEMA-APRENDIZAJE-AUTOMATICO/blob/main/6.%20REGRESION%20LOG%C3%8DSTICA/ejercicio-empleados-marcosgilcaravaca.ipynb) se explica como realizar una regresión logística, teniendo en cuenta los valores que tenemos que coger que tendrán más impacto.
 
 
 ### 5.4. ÁRBOLES DE DECISIÓN
