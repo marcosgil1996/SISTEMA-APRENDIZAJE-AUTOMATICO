@@ -30,7 +30,10 @@ En el siguiente [ARCHIVO](https://github.com/marcosgil1996/SISTEMA-APRENDIZAJE-A
 ### 5.2. REGRESIÓN LINEAL MÚLTIPLES VARIABLES
 En el siguiente [ARCHIVO](https://github.com/marcosgil1996/SISTEMA-APRENDIZAJE-AUTOMATICO/blob/main/5.%20REGRESI%C3%93N%20LINEAL/REGRESI%C3%93N%20LINEAL%20MULTIPLES%20VARIABLES/ejercicio_multiples-2.ipynb) se explica como realizar una regresión lineal teniendo un variable target y varias variables donde la insertamos los valores deseados.
 
-regresión lineal
-regresipon logistica
-árboles de decisión
+### 5.3. REGRESIÓN LOGÍSTICA
+
+
+
+### 5.4. ÁRBOLES DE DECISIÓN
+
 
